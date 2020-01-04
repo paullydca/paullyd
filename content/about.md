@@ -8,13 +8,12 @@ menu:
     weight: 2
 layout: page
 ---
+**Paully D** is owner/founder of **[Beyond the Pixel](https://www.beyondthepx.com)**, a design agency focused on web and graphic design, as well brand management. He loves coffee, mountain bikes, hiking, and Jesus. Paul has 4 kids and lives in Saint John, NB. 
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+His has been working as a designer for over a decade. Preciously a bicycle mechanic but lost the ability to do physical work due to illness caused Paully to rediscover his talents and skills. Focused on helping brands stand out through great design and emotion, Paully helps grow local businesses. 
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+As a hobby, Paully blogs on various topics that come to his mind. 
 
 *Thank You for reading!*
