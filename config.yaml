@@ -11,7 +11,7 @@ params:
     bg_img: /images/9.jpg
     has_nav: true
     has_social: true
-    logo_img: images/logo.png
+    logo_img: ''
     tagline: Gentleman of Adventure
     title: Paully D
   palette: green
