@@ -1,4 +1,4 @@
-title: Stackbit Fjord Theme
+title: Paully D
 baseURL: /
 params:
   footer:
@@ -14,7 +14,7 @@ params:
     logo_img: images/logo.png
     tagline: Gentleman of Adventure
     title: Paully D
-  palette: yellow
+  palette: green
 disableKinds:
   - RSS
   - taxonomy
