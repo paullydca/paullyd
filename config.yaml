@@ -5,8 +5,8 @@ params:
     content: '&copy; All rights reserved.'
     links:
       - new_window: true
-        text: Made with Stackbit
-        url: 'https://www.stackbit.com'
+        text: Made by Beyond the Pixel
+        url: 'https://www.beyondthepx.com'
   header:
     bg_img: images/header-bg.jpg
     has_nav: true
